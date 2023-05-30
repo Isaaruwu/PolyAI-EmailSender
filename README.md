@@ -4,4 +4,9 @@
 
 1. Clone the repo:
 ```shell
-https://github.com/Isaaruwu/PolyAI-EmailSender.git 
+git clone https://github.com/Isaaruwu/PolyAI-EmailSender.git 
+```
+2. Install the required dependencies:
+ ```shell
+pip install -r requirements.txt
+```
