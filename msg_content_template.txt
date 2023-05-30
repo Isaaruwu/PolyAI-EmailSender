@@ -1,0 +1,41 @@
+<html>
+   <body style="text-align: center; font-family: 'Roboto', sans-serif; color: black;">
+      <div style="background-color: #F6F9FC;">
+         <div style="display: inline-block; text-align: justify; width: 600px; background-color: #ffffff; color: black;">
+            <div style="padding: 10px;">
+               <p><img src="cid:header_img" style="display: block; margin: 0 auto;"></p>
+               <p>Bonjour  {name},</p>
+               <p>PolyAI est le comité étudiant d’intelligence artificielle de Polytechnique Montréal qui a pour mission de mettre en relation nos étudiants de baccalauréat, de maîtrise et de doctorat avec l'industrie par le biais d’événements, de projets concrets et de formations sur mesure. Cette année, PolyAI s’unit à SEMLA, un groupe de chercheurs du Québec, pour vous offrir la troisième édition de notre hackathon CodeML. </p>
+               <p>En participant à la réalisation de cet événement, vous obtenez un accès exclusif à une étendue d'étudiants talentueux et à plusieurs experts dans le domaine de l’intelligence artificielle.</p>
+               <p>Notre comité est expérimenté dans l’organisation de hackathons et notre dernier évènement a comptabilisé plus de 250 participants. En ce qui concerne CodeML 2023, nous avons le plaisir de vous annoncer que la compétition se déroulera en présentiel au sein des murs de Polytechnique Montréal le {date_event}</p>
+               <p><img src="cid:body_img" style="display: block; margin: 0 auto; width: 300.297px; height: 200.172px;"></p>
+               <p>Ce serait un grand honneur pour nous de faire la promotion de {company_name} afin qu’elle devienne une partie intégrante de l’événement.</p>
+               <p>En nous supportant, vous pourriez avoir accès à plusieurs avantages comme:</p>
+               <ul>
+                  <li>La promotion de votre compagnie sur nos réseaux sociaux</li>
+                  <li>Une présentation de votre entreprise à la cérémonie d’ouverture</li>
+                  <li>Un accès exclusif à la banque de CV des participants</li>
+                  <li>Envoyer des mentors lors de l’évènemen</li>
+                  <li>Votre logo sur les vêtements distribués lors de l’événement</li>
+                  <li>Activités exclusives avec les participants (ex: Jeux de poches, Atelier, etc.)</li>
+                  <li>Et plus encore!</li>
+               </ul>
+               <p>Êtes-vous disponible pour une rencontre avec notre équipe via Êtes-vous disponible pour une rencontre avec notre équipe via Teams le {date_rencontre} prochain à {heure_rencontre}? Pour plus de détails concernant vos avantages et CodeML, veuillez consulter le plan de commandites en pièce jointe.</p>
+               <p> En espérant avoir de vos nouvelles, </p>
+               <p> Ismail Aarab </p>
+            </div>
+            <div style="text-align: center; background-color: #C44455">
+               <br>  
+               <h2 style="color: white;"> Connect with us </h2>
+               <a href="https://www.facebook.com/branchPolyAi/"><img src="cid:facebook" height="30px"></a>
+               <a href="https://www.linkedin.com/company/poly-ai/"><img src="cid:linkedin" height="30px"></a>
+               <a href="https://poly-ai.io/"><img src="cid:website" height="30px"></a>
+               <br>
+               <br>
+               <img src="cid:logo" width="100px" height="41.656">
+               <br>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
